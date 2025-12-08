@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Ujueze 👋
 
-<!--
-**akaliujueze-a11y/akaliujueze-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer building next-generation *AI-powered mobile apps*, with a focus on:
+- Real-time voice translation  
+- AI assistants  
+- Real-time communication (voice, messaging, video)  
+- Scalable cloud systems  
 
-Here are some ideas to get you started:
+Currently building *VocalBridge* — the app that will change how the world communicates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+*Mobile:* React Native, TypeScript  
+*Backend:* Node.js, NestJS, Go (WebRTC)  
+*AI:* Python, Whisper, TTS models  
+*Database:* PostgreSQL, Redis  
+*Tools:* Docker, Git, Firebase, Supabase  
+
+---
+
+## 🔥 Current Project
+### *VocalBridge – AI Voice Translator + Calls + Messenger*
+Real-time translation during calls using AI + WebRTC.
+
+---
+
+## 📫 Contact
+- Email: akaliujueze@gmail.com
+- Twitter / X: https://twitter.com/realakaliujueze
+
+---
+
+### “Code. Build. Ship. Repeat.”
